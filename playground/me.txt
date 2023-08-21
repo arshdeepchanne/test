@@ -1,5 +1,0 @@
-{{#user}}
-Name: Arshdeep Singh
-Skills: Python, Flask, HTML, CSS, JS, C, AI
-Email: arshdeep.channe@gmail.com
-{{/user}}
